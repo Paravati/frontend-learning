@@ -1,0 +1,38 @@
+CAROUSEL:
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_carousel2&stacked=h
+https://www.w3schools.com/bootstrap/bootstrap_carousel.asp
+http://www.w3big.com/pl/bootstrap/bootstrap-carousel-plugin.html
+----------------------------
+CAROUSEL multiitem with vue.js:
+https://vuejsexamples.com/a-multi-item-card-carousel-in-vue/
+-------------------------------
+Carousel multi item + SCSS:
+https://www.codeply.com/go/EIOtI7nkP8/bootstrap-carousel-with-multiple-cards
+https://codepen.io/aybukeceylan/pen/RwrRPoO
+-----------------------------
+Collapse menu:
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_scrollspy&stacked=h
+-------------------------
+Slider:
+https://kursjs.pl/kurs/dom/slider.php
+------------------------
+Sticky image:
+https://www.w3schools.com/howto/howto_css_image_sticky.asp
+--------------------------
+Popup window:
+https://www.tworzenie-stronek.pl/wyskakujace-okienko-popup-na-strone/
+http://www.w3big.com/pl/bootstrap/bootstrap-popover-plugin.html
+https://bunkrowniema.com/jak-zrobic-popup-w-javascript/
+https://kursbootstrap.pl/okienko-pop-up-modal/
+https://www.w3schools.com/howto/howto_js_popup.asp
+--------------------------
+Sections for page:
+http://jsfiddle.net/x4wDk/
+https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_js_scrollspy&stacked=h
+https://stackoverflow.com/questions/16349490/html-css-buttons-that-scroll-down-to-different-div-sections-on-a-webpage
+https://github.com/ukasz1/landing-page-1/blob/main/index.html
+https://github.com/ukasz1/landing-page-1/blob/main/style.css
+----------------------
+FLASK rest api:
+https://towardsdatascience.com/talking-to-python-from-javascript-flask-and-the-fetch-api-e0ef3573c451
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-ii-templates
