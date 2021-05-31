@@ -1,0 +1,30 @@
+/* Style the counter cards */
+.card {
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  padding: 16px;
+  text-align: center;
+  white-space:normal;
+  background-color: #f1f1f1;
+  width:330px;
+  height: 350px;
+}
+
+.card:hover{
+  box-shadow: 8px 4px 8px 4px rgba(0, 100, 0, 0.5); /* this adds the "card" effect */
+
+}
+
+
+#slide {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;  /* slider effect*/
+}
+
+*{
+	margin: 30px;
+}
+
+
+
